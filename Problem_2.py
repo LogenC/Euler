@@ -39,7 +39,7 @@ def fib_sum(no_pass):
     b = 2
     c_term = b+a
 
-    #as long as the next fib c_term is less than the 'do not exceed value,' even values keep getting added
+    #as long as the next fib c_term is less than the 'do not exceed value,' even values get added
     while c_term < no_pass+1:
 
         #if my fib c_term is even, it gets added to the total
