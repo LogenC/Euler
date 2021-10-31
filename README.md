@@ -1,5 +1,5 @@
 # Euler
-Project Euler allows people to share their code up to the first 100 problems. Check out some general-purpose solutions here.
+Project Euler allows people to share their code up to the first 100 problems. Check out some general-purpose solutions here written in Python.
 
 I see a lot of solutions that solve Euler problems very specifically, where inputting different parameters (than the ones asked by the question) would yield an incorrect result.
 
